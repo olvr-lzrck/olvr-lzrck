@@ -5,50 +5,43 @@
 <br clear="both">
 
 <div data-importer="techs" align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="85" alt="java logo"/>
-  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"/>
+  <img width="12" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="85" alt="csharp logo"/>
-  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="csharp logo"/>
+  <img width="12" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="85" alt="python logo"/>
-  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"/>
+  <img width="12" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="85" alt="numpy logo"/>
-  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="60" alt="numpy logo"/>
+  <img width="12" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="85" alt="pandas logo"/>
-  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="60" alt="pandas logo"/>
+  <img width="12" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="85" alt="pytorch logo"/>
-  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="60" alt="pytorch logo"/>
+  <img width="12" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="85" alt="github logo"/>
-  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo"/>
+  <img width="12" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="85" alt="git logo"/>
-  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"/>
+  <img width="12" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="85" alt="html logo"/>
-  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html logo"/>
+  <img width="12" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="85" alt="unity logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="60" alt="unity logo"/>
 </div>
 
 ###
 
 <div data-importer="border">
-  <picture>
-    <source 
-      media="(prefers-color-scheme: dark)" 
-      srcset="https://capsule-render.vercel.app/api?type=soft&height=5&color=808080">
-
-    <source 
-      media="(prefers-color-scheme: light)" 
-      srcset="https://capsule-render.vercel.app/api?type=soft&height=5&color=000000">
-
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=5&color=000000">
-  </picture>
+  <img 
+    width="100%" 
+    src="https://capsule-render.vercel.app/api?type=soft&height=5&color=FFFFFF&stroke=000000&strokeWidth=2"
+  />
 </div>
 
 ###
@@ -69,21 +62,15 @@ Currently learning:<br><br>
 ###
 
 <div data-importer="border">
-  <picture>
-    <source 
-      media="(prefers-color-scheme: dark)" 
-      srcset="https://capsule-render.vercel.app/api?type=soft&height=5&color=808080">
-
-    <source 
-      media="(prefers-color-scheme: light)" 
-      srcset="https://capsule-render.vercel.app/api?type=soft&height=5&color=000000">
-
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=5&color=000000">
-  </picture>
+  <img 
+    width="100%" 
+    src="https://capsule-render.vercel.app/api?type=soft&height=5&color=FFFFFF&stroke=000000&strokeWidth=2"
+  />
 </div>
 
 ###
 
+<!--
 <picture data-importer="pacman">
 
   <source 
@@ -97,7 +84,9 @@ Currently learning:<br><br>
   <img 
     alt="Pacman contribution graph"
     src="https://raw.githubusercontent.com/olvr-lzrck/olvr-lzrck/pacman-output/pacman-contribution-graph.svg?game=pacman">
+
 </picture>
+-->
 
 ###
 
@@ -140,17 +129,10 @@ Currently learning:<br><br>
 ###
 
 <div data-importer="border">
-  <picture>
-    <source 
-      media="(prefers-color-scheme: dark)" 
-      srcset="https://capsule-render.vercel.app/api?type=soft&height=5&color=808080">
-
-    <source 
-      media="(prefers-color-scheme: light)" 
-      srcset="https://capsule-render.vercel.app/api?type=soft&height=5&color=000000">
-
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=5&color=000000">
-  </picture>
+  <img 
+    width="100%" 
+    src="https://capsule-render.vercel.app/api?type=soft&height=5&color=FFFFFF&stroke=000000&strokeWidth=2"
+  />
 </div>
 
 ###
