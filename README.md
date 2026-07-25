@@ -3,8 +3,8 @@
 <br clear="both">
 
 <p align="left">
-Student developer learning and building with <b>C#, Java, Python</b>.<br><br>
-I enjoy exploring software development, automation, AI tools, and creating projects that help me improve my programming skills.<br><br>
+Student developer learning and building with <b>Python, Java and C#</b>.<br><br>
+I enjoy exploring software development, automation, AI tools, and creating projects that help me improve my programming skills while fixing small everyday problems.<br><br>
 Currently learning:<br><br>
 * 🤖 Artificial Intelligence & Machine Learning<br>
 * ☕ Java development<br>
