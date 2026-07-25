@@ -37,15 +37,15 @@ Currently learning:<br><br>
 
 <picture>
 
-  <!-- Dark GitHub theme -->
+  <!-- Dark mode -->
   <source 
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/olvr-lzrck/olvr-lzrck/snake-output/snake.svg">
+    srcset="https://raw.githubusercontent.com/olvr-lzrck/olvr-lzrck/snake-output/snake-dark.svg">
 
-  <!-- Light GitHub theme -->
+  <!-- Light mode -->
   <source 
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/olvr-lzrck/olvr-lzrck/snake-output/snake-dark.svg">
+    srcset="https://raw.githubusercontent.com/olvr-lzrck/olvr-lzrck/snake-output/snake.svg">
 
   <img 
     src="https://raw.githubusercontent.com/olvr-lzrck/olvr-lzrck/snake-output/snake.svg"
