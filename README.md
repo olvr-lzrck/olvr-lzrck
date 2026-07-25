@@ -1,52 +1,8 @@
-<h1 data-importer="text" align="left">👋 Hi, I'm Oliver</h1>
-
-###
+<h1 align="left">👋 Hi, I'm Oliver</h1>
 
 <br clear="both">
 
-<div data-importer="techs" align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"/>
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="csharp logo"/>
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"/>
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="60" alt="numpy logo"/>
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="60" alt="pandas logo"/>
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="60" alt="pytorch logo"/>
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo"/>
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"/>
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html logo"/>
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="60" alt="unity logo"/>
-</div>
-
-###
-
-<div data-importer="border">
-  <img 
-    width="100%" 
-    src="https://capsule-render.vercel.app/api?type=soft&height=5&color=FFFFFF&stroke=000000&strokeWidth=2"
-  />
-</div>
-
-###
-
-<p data-importer="text" align="left">
+<p align="left">
 Student developer learning and building with <b>C#, Java, Python</b>.<br><br>
 
 I enjoy exploring software development, automation, AI tools, and creating projects that help me improve my programming skills.<br><br>
@@ -59,16 +15,41 @@ Currently learning:<br><br>
 * 💻 C# in gaming environment
 </p>
 
-###
+<br clear="both">
 
-<div data-importer="border">
-  <img 
-    width="100%" 
-    src="https://capsule-render.vercel.app/api?type=soft&height=5&color=FFFFFF&stroke=000000&strokeWidth=2"
-  />
+<div align="center">
+
+  <a href="https://www.instagram.com/olvr.lzrck/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="25" alt="instagram logo"/>
+  </a>
+
+  <a href="https://www.youtube.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="25" alt="youtube logo"/>
+  </a>
+
+  <a href="https://github.com/olvr-lzrck" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&style=for-the-badge" height="25" alt="github logo"/>
+  </a>
+
 </div>
 
-###
+<br>
+
+<picture>
+
+  <source 
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/olvr-lzrck/olvr-lzrck/snake-output/snake-dark.svg">
+
+  <source 
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/olvr-lzrck/olvr-lzrck/snake-output/snake.svg">
+
+  <img 
+    src="https://raw.githubusercontent.com/olvr-lzrck/olvr-lzrck/snake-output/snake.svg"
+    alt="Snake animation">
+
+</picture>
 
 <!--
 <picture data-importer="pacman">
@@ -87,52 +68,5 @@ Currently learning:<br><br>
 
 </picture>
 -->
-
-###
-
-<br clear="both">
-
-<div data-importer="socials" align="center">
-
-  <a href="https://www.instagram.com/olvr.lzrck/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="25" alt="instagram logo"/>
-  </a>
-
-  <a href="https://www.youtube.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="25" alt="youtube logo"/>
-  </a>
-
-  <a href="https://github.com/olvr-lzrck" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&style=for-the-badge" height="25" alt="github logo"/>
-  </a>
-
-</div>
-
-###
-
-<picture data-importer="snake">
-
-  <source 
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/olvr-lzrck/olvr-lzrck/snake-output/snake-dark.svg">
-
-  <source 
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/olvr-lzrck/olvr-lzrck/snake-output/snake.svg">
-
-  <img 
-    src="https://raw.githubusercontent.com/olvr-lzrck/olvr-lzrck/snake-output/snake.svg"
-    alt="Snake animation">
-
-</picture>
-
-###
-
-<div data-importer="border">
-  <img 
-    width="100%" 
-    src="https://capsule-render.vercel.app/api?type=soft&height=5&color=FFFFFF&stroke=000000&strokeWidth=2"
-  />
-</div>
 
 ###
