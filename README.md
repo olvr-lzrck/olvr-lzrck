@@ -16,17 +16,22 @@ Currently learning:
 ## 🌐 Socials
 
 <p align="center">
-  <a href="https://www.instagram.com/olvr.lzrck/">
+  <a href="https://www.instagram.com/olvr.lzrck/" target="_blank">
     <img width="32px" alt="Instagram" title="Instagram" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png"/>
   </a>
+  &nbsp; Instagram
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.youtube.com/">
+
+  <a href="https://www.youtube.com/" target="_blank">
     <img width="32px" alt="YouTube" title="YouTube" src="https://i.imgur.com/qiXu7b2.png"/>
   </a>
+  &nbsp; YouTube
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://github.com/olvr-lzrck">
+
+  <a href="https://github.com/olvr-lzrck" target="_blank">
     <img width="32px" alt="GitHub" title="GitHub" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg"/>
   </a>
+  &nbsp; GitHub
 </p>
 
 ---
@@ -64,20 +69,10 @@ I am currently exploring:
 
 ## 📊 GitHub Stats
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=olvr-lzrck\&rank_icon=github\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented\&show_icons=true\&include_all_commits=true\&theme=vision-friendly-dark)](https://github-stats-extended.vercel.app/api?username=olvr-lzrck)
+<p align="center">
+  <a href="https://github-stats-extended.vercel.app/api/top-langs?username=olvr-lzrck&layout=donut-vertical&langs_count=4&theme=dark" target="_blank">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=olvr-lzrck&layout=donut-vertical&langs_count=4&theme=dark" alt="Top Languages"/>
+  </a>
+</p>
 
 ---
-<!--
-**olvr-lzrck/olvr-lzrck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
