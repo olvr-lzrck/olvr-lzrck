@@ -1,18 +1,47 @@
 <h1 align="left">👋 Hi, I'm Oliver</h1>
 
-<br clear="both">
+<pre>
+                 ,.     ,.                                      *                  *
+                {^ \-"-/ ^}                         __                *
+                "   """   "                      ,db'    *     *
+               {  _  }                         ,d8/       *        *    *
+               ==_ .:Y:. _==                   080
+             .""  `--^--' "".                  808
+            (,~-~."" "" ,~-~.)                  `db\       *     *
+      ------(     )----(     )-----               `o`_                    **
+            ^-'-'-^    ^-'-'-^             *               *   *    _      *
+      _____________________________              *                 / )
+            |"""" /~.^.~\ """"|             *      (\__/) *       ( (  *
+            |                 |             ,-.,-.,)    (.,-.,-.,-.) ).,-.,-.
+      hjw    ,i-i-i(""(  i-i-i.            | @|  ={      }= | @|  / / | @|o |
+      `97   (o o o ))"")( o o o)          _j__j__j_)     `-------/ /__j__j__j_
+             \(_) /(""(  \ (_) /          ________(               /___________
+              `--'  \""\  `--'            |  | @| \              || o|O | @|
+                     )"")                  |o |  |,'\       ,   ,'"|  |  |  |  hjw
+                    (""/                   vV\|/vV|`-'\  ,---\   | \Vv\hjwVv\//v
+                     `"                              _) )     `.  \ /
+                                                    (__/        ) )
+                                                               (_/
+</pre>
+
+
+<h2 align="left">About Me</h2>
 
 <p align="left">
-Student developer learning and building with <b>Python, Java and C#</b>.<br><br>
-I enjoy exploring software development, automation, AI tools, and creating projects that help me improve my programming skills while fixing small everyday problems.<br><br>
-Currently learning:<br><br>
-* 🤖 Artificial Intelligence & Machine Learning<br>
-* ☕ Java development<br>
-* 🐍 Python scripting and automation<br>
-* 💻 C# in gaming environment
-  
+Student developer learning and building with <b>C#, Java, Python</b>.<br><br>
+
+I enjoy exploring software development, automation, AI tools, and creating projects that help me improve my programming skills.<br><br>
+
+<b>Currently learning:</b><br><br>
+
+🤖 Artificial Intelligence & Machine Learning<br>
+☕ Java development<br>
+🐍 Python scripting and automation<br>
+💻 C# in gaming environment
 </p>
-<br clear="both">
+
+
+<h2 align="center">Connect with me</h2>
 
 <div align="center">
 
@@ -30,30 +59,20 @@ Currently learning:<br><br>
 
 </div>
 
-<br>
+
+<h2 align="center"></h2>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/olvr-lzrck/olvr-lzrck/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/olvr-lzrck/olvr-lzrck/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/olvr-lzrck/olvr-lzrck/output/github-snake.svg" />
-</picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/olvr-lzrck/olvr-lzrck/snake-output/snake-dark.svg">
 
-<!--
-<picture data-importer="pacman">
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/olvr-lzrck/olvr-lzrck/snake-output/snake.svg">
 
-  <source 
-    media="(prefers-color-scheme: dark)" 
-    srcset="https://raw.githubusercontent.com/olvr-lzrck/olvr-lzrck/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-
-  <source 
-    media="(prefers-color-scheme: light)" 
-    srcset="https://raw.githubusercontent.com/olvr-lzrck/olvr-lzrck/pacman-output/pacman-contribution-graph.svg?game=pacman">
-
-  <img 
-    alt="Pacman contribution graph"
-    src="https://raw.githubusercontent.com/olvr-lzrck/olvr-lzrck/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img
+    src="https://raw.githubusercontent.com/olvr-lzrck/olvr-lzrck/snake-output/snake.svg"
+    alt="Snake animation">
 
 </picture>
--->
-
-###
