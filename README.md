@@ -41,7 +41,7 @@ I enjoy exploring software development, automation, AI tools, and creating proje
 </p>
 
 
-<h2 align="center">Connect with me</h2>
+<h2 align="left">Connect with me</h2>
 
 <div align="center">
 
