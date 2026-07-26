@@ -41,7 +41,7 @@
 <h2 align="left">About Me</h2>
 
 <p align="left">
-Student developer learning and building with <b>C#, Java, Python</b>.<br><br>
+Student developer learning and building with <b>C#, Java, Python, HTML (CSS and JavaScript)</b>.<br><br>
 
 I enjoy exploring software development, automation, AI tools, and creating projects that help me improve my programming skills.<br><br>
 
