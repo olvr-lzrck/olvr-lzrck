@@ -62,17 +62,9 @@ I enjoy exploring software development, automation, AI tools, and creating proje
 
 <h2 align="center"></h2>
 
+
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/olvr-lzrck/olvr-lzrck/snake-output/snake-dark.svg">
-
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/olvr-lzrck/olvr-lzrck/snake-output/snake.svg">
-
-  <img
-    src="https://raw.githubusercontent.com/olvr-lzrck/olvr-lzrck/snake-output/snake.svg"
-    alt="Snake animation">
-
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/olvr-lzrck/olvr-lzrck/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/olvr-lzrck/olvr-lzrck/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/olvr-lzrck/olvr-lzrck/output/github-snake.svg" />
 </picture>
